@@ -8,6 +8,12 @@ TagManager:
   - two
   - three
   - four
+  - hexagon
+  - hexagon2
+  - hexagon3
+  - hexagon4
+  - hexagon5
+  - hexagon6
   layers:
   - Default
   - TransparentFX

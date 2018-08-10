@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/holo.unity
+- path: Assets/screen/light.unity
   isLoaded: 1
   isActive: 1

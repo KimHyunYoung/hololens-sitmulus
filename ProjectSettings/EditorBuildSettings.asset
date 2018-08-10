@@ -4,4 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/screen/textpic.unity
+    guid: 12621c0a8ab852445a5f500ffb495d5a
+  - enabled: 1
+    path: Assets/screen/light.unity
+    guid: 463e284adb72f2a4a9de7932572682c7
+  - enabled: 1
+    path: Assets/screen/robot.unity
+    guid: d7e171b4f75a04545b560e7edd3bea3d
+  - enabled: 1
+    path: Assets/screen/laundry.unity
+    guid: 5a20392b9733c0c4095766da6fed5a79
+  - enabled: 0
+    path: Assets/screen/input field.unity
+    guid: 91fe9c15084003a4282df5889352f597
+  - enabled: 0
+    path: Assets/screen/training.unity
+    guid: 5a38919fda605c245acff21d7aafea54
+  - enabled: 0
+    path: Assets/screen/hexagon.unity
+    guid: e25fa8e8d406fe14b8dc6813af354862
+  m_configObjects: {}
